@@ -76,7 +76,7 @@
 	* Напишите команду слияние ветки develop в мастер; git merge develop
 
 # Задача №2
-- Файл с задачей 2  - /web/js/secondTask.js
+- Файл с задачей 2  - https://github.com/barepu/alinakz/blob/master/web/js/secondTask.js
 
 # Requirements
 - База данных alina_db
