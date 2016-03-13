@@ -75,5 +75,8 @@
 	* Напишите команду создания ветки develop в проекте test и переход в неё; git checkout -b develop
 	* Напишите команду слияние ветки develop в мастер; git merge develop
 
+# Задача №2
+- Файл с задачей 2  - /web/js/secondTask.js
+
 # Requirements
 - База данных alina_db
